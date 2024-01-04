@@ -1,0 +1,2 @@
+done upto
+php artisan key:generate
